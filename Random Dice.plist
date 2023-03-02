@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+      <key>items</key>
+      <array>
+        <dict>
+           <key>assets</key>
+           <array>
+             <dict>
+               <key>kind</key>
+               <string>software-package</string>
+               <key>url</key>
+               <string><![CDATA[https://doc-0k-8k-docs.googleusercontent.com/docs/securesc/2e99fl81tp763a2hjl13b4oqg49ae9i8/0sv1bnrdtpgsjqeo6f34oq3lf5gt4qnv/1677799425000/00257387257711627814/00257387257711627814/1F5WmrvfD26PU5-cD39WmYtSZCUk-J4jb?e=download&ax=AB85Z1CwXBHk0Rz10m3VWQLsweJt0gimKjYblCvmYVfWmv8s1ydA-4uC-iD_Q03hYs1s2e12cYlPMlAsr0uy5yz7kSYhsG22K1hcq0bbrO9gpPUqX5jrBDguU14Axh93btVdbWsFGKzaG6h9IeMQPGSZkyGcX96b2_4EJwFya4ixKo0RgrWKBfIGQmjKIXh87V_Uj86oBXer1MG1i506uP6UVA0C-lXKGO9klmiEFKn4K2WTHZZJSxtCIB_MEzdqsCnZSCBfCr1wRyEZdKqy-UVtoK4n_Pp8S8Td6GB-vRP4Svjm_kZ9s_1rLWWToX8lcjXB3TKI3wO937GeH3ZpTQbFoLsPaB0hT2ghn76L6hW9T8xq1uynTFChi7D9b12-JTsRa1K_vPiBhxPUS_kL4bwEq6GpPDYA1614q6uJHptnTBBsnisPVBWKg7baOiKUAR48lx_xHzYv1mmk00hNTogZUlJcfb-3ul383mBDiH6bKWkXVF3vuz68PMx84u3qInrCcrP2aerVLbOdDNzFUuxWsbWRc3jz-Nuq9gJEOjzPJbsN8rH6wgNvdBqZwLSfT8bip8eAT2xPKYsgImrH48523j9y2EVyJB8chr6-PRYOHP_VPhAcwMYjPAAxf3FV1uXWSZUGQaLLnO9b0agPuobQ2YR1oRLop1AfDyqboVJxBNpil2UIdP48Mh3eGkXJCl3nmVrjOgDliwzvSQHN6N8YAwKSyWr1wHbBnW9nytpalk8o0CPuM7Lr38BdBhpATPY_dInJndUKQL20do5LEDEZaLmIF6jZVitO9UQiP06J59k3Xc3CwX5cexTJPyB0vwRVQkuWFRfY1wLTwrKhLEk4j3VXLvzPVJWsFi8EFZthHuadpvnjNmOYD244-gmwbzwHmA&uuid=52c71245-12f4-4efa-8752-629be165fd22&authuser=0&nonce=bvak5ggg7hj74&user=00257387257711627814&hash=pcs04k2f75ge4tpng2ubj0qqjfb2vdp7]]></string>
+             </dict>
+             <dict>
+               <key>kind</key>
+               <string>display-image</string>
+               <key>needs-shine</key>
+               <integer>0</integer>
+               <key>url</key>
+               <string><![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7lGt6TgEb698AeATus0jafjVd3fL7L7Hbg&usqp=CAU]]></string>
+             </dict>
+             <dict>
+               <key>kind</key>
+               <string>full-size-image</string>
+               <key>needs-shine</key>
+               <true/>
+               <key>url</key>
+               <string><![CDATA[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7lGt6TgEb698AeATus0jafjVd3fL7L7Hbg&usqp=CAU]]></string>
+             </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+             <key>bundle-identifier</key>
+             <string>com.xtools.percent.royaldice</string>
+             <key>bundle-version</key>
+             <string><![CDATA[1.0.0]]></string>
+             <key>kind</key>
+             <string>software</string>
+             <key>title</key>
+             <string><![CDATA[Random Dice]]></string>			 
+           </dict>
+        </dict>
+      </array>
+  </dict>
+</plist>
